@@ -1,0 +1,45 @@
+@media screen and (max-width:768px)
+{
+    
+    #portadaFull
+    {
+        display: none;
+    }
+    #portadaMovil
+    {
+        display: inline;
+    }
+    
+    
+    #promocion
+    {
+        display: none;
+    }
+    #formulario
+    {
+        display: none;
+    }
+    #pxd
+    {
+        display: inline;
+        font-family: 'Montserrat Black';
+        font-size: 2.5rem;
+        color: maroon;
+        top: 0;
+        margin-top: 120%;
+        text-align: top;
+        
+    }
+    #formularioMovil
+    {
+        margin-top: -110%;
+        width: 85%;
+        background-color: white;
+        opacity: 0.6;
+        margin-left: 10%;
+        padding: 20px;
+        border-radius: 40px;
+        
+        
+    }
+}
